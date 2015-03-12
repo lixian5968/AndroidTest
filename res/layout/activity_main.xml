@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/content_frame" >
+    
+<!-- FrameLayout 一桢一桢的替换 可以全部替换
+LinearLayout 不能全部替换 只能排序下去  用LinearLayout 试过了 -->
+</FrameLayout>
